@@ -1,0 +1,2 @@
+
+The Speaker Identification System uses machine learning to identify speakers based on unique audio features. By using Mel-Frequency Cepstral Coefficients (MFCC) for feature extraction and classification algorithms, the system can accurately identify speakers from audio inputs. This project addresses the growing demand for speaker recognition in applications such as security, voice authentication, and human-computer interaction.
